@@ -1,14 +1,26 @@
 ## Host PC CNN Training 
-### 1. Train CNN Model
+### 1. CNN Model 
+| Layer                              | Output  Shape     | Param #     |
+|------------                        |-----------------  |------------ |
+| conv2d_1 (Conv2D)                  |(None, 24, 24, 16) |416          | 
+| max_pooling2d_1 (MaxPooling2D)     |(None, 6, 6, 16)   |0            | 
+| flatten_1 (Flatten)                |(None, 576)        |0            |
+| dropout_1 (Dropout)                |(None, 576)        |0            |
+| dense_1 (Dense)                    |(None, 10)         |5,770        |
+#### Total params: 6,186 (24.16 KB)
+#### Trainable params: 6,185 (24.16 KB)
+#### Non-trainable params: 0 (0.00 B)
+
+### 2. Train CNN Model
 - Define and train a CNN model.
 - Save as keras file.
 
-### 2. Download and Prepare Dataset
+### 3. Download and Prepare Dataset
 - Download the MNIST dataset from Kaggle.
 - Load and preprocess the dataset.
 - Save the dataset as a pickle file.
 
-### 3. Convert to TensorFlow Lite
+### 4. Convert to TensorFlow Lite
 - Convert the trained CNN model to TensorFlow Lite (tflite) format.
 
 ## Files
