@@ -26,7 +26,8 @@
 | 512 × 512  |94.29            |156796.3    |
 
 #### Regression model
-$\tau$ = $\alpha$ $L$<sup>$\beta$</sup> (ms)
+t = $A$ $L$<sup>$n$</sup> (ms)
+Speed up = $A$ $L$<sup>$m$</sup> (times)
 
 ## Dataset
 The following datasets were used in this project:
