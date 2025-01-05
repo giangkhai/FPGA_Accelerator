@@ -16,8 +16,10 @@
 - `model.tflite` – Keras to tflite convertor.
 
 ## Dataset
-We use the MNIST dataset available at the following link:
-[MNIST Handwritten](https://www.kaggle.com/datasets/hojjatk/mnist-dataset).
-[MNIST Fashion](https://www.kaggle.com/datasets/zalando-research/fashionmnist).
-[MNIST Kuzushiji](https://www.kaggle.com/datasets/anokas/kuzushiji).
+The following datasets were used in this project:
 
+[1] H. Hojjat, "MNIST Handwritten Digits Dataset," Kaggle, 2017. [Online]. Available: https://www.kaggle.com/datasets/hojjatk/mnist-dataset.
+
+[2] Z. Research, "Fashion MNIST Dataset," Kaggle, 2017. [Online]. Available: https://www.kaggle.com/datasets/zalando-research/fashionmnist.
+
+[3] A. Anokas, "Kuzushiji MNIST Dataset," Kaggle, 2019. [Online]. Available: https://www.kaggle.com/datasets/anokas/kuzushiji.
