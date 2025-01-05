@@ -1,6 +1,6 @@
 ## CNN Training 
 ### 1. Train CNN Model
-- Define and train a Convolutional Neural Network (CNN) model.
+- Define and train a CNN model.
 - Save as keras file.
 
 ### 2. Download and Prepare Dataset
