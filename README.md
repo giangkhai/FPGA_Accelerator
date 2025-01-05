@@ -8,10 +8,8 @@
 | max_pooling2d_1 (MaxPooling2D)     |(None, 6, 6, 16)   |0            | 
 | flatten_1 (Flatten)                |(None, 576)        |0            |
 | dropout_1 (Dropout)                |(None, 576)        |0            |
-| dense_1 (Dense)                    |(None, 10)         |5,770        |
-#### Total params: 6,186 (24.16 KB)
-#### Trainable params: 6,185 (24.16 KB)
-#### Non-trainable params: 0 (0.00 B)
+| dense_1 (Dense)                    |(None, 10)         |5770        |
+
 - Save as keras file.
 
 ### 2. Download and Prepare Dataset
@@ -32,9 +30,9 @@
 | Image Size - L | FPGA [^1] (ms) | CPU [^2] (ms)     |
 |------------|-----------------|------------|
 | 32 × 32    |1.3              |537         | 
-| 64 × 64    |2.43             |2,255.67     | 
-| 128 × 128  |7.07             |9,345.33     | 
-| 512 × 512  |94.29            |156,796.3    |
+| 64 × 64    |2.43             |2255.67     | 
+| 128 × 128  |7.07             |9345.33     | 
+| 512 × 512  |94.29            |156796.3    |
 
 #### Regression model
 - t = A L<sup>n</sup> (ms).
@@ -46,9 +44,9 @@
 
 | Dataset                | CPU (ms) | T4 GPU (ms)     | FPGA (ms)  |
 |------------            |------------|------------|------------|
-| Handwritten digits     |1,931.23     |727.25      | 3.84       |
-| Fashion                |1,940.01     |653.84      | 2.59       |
-| Kuzushiji              |1,898.00     |710.30      | 2.61       |
+| Handwritten digits     |1931.23     |727.25      | 3.84       |
+| Fashion                |1940.01     |653.84      | 2.59       |
+| Kuzushiji              |1898.00     |710.30      | 2.61       |
 
 
 #### Regression model
