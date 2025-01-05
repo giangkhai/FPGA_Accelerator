@@ -25,11 +25,11 @@
 | 128 × 128  | 7.07          | 9345.33      | 
 | 512 × 512  | 94.29    | 156796.3   |
 #### For sequential computation 
-    $\tau$<sub>CPU</sub> ∼ (L+1 - S)<sup>2</sup> = O(L<sup>2</sup>)
+$\tau$<sub>CPU</sub> ∼ (L+1 - S)<sup>2</sup> = O(L<sup>2</sup>)
 #### For FPGA computation
-    $\tau$<sub>FPGA</sub> ∼ O(L<sup>$\beta$</sup>)
+$\tau$<sub>FPGA</sub> ∼ O(L<sup>$\beta$</sup>)
 #### Regression model
-    $\tau$ = $\alpha \cdot$ $L$<sup>$\beta$</sup>
+$\tau$ = $\alpha \cdot$ $L$<sup>$\beta$</sup>
 ## Dataset
 The following datasets were used in this project:
 
