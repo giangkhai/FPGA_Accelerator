@@ -24,7 +24,7 @@
 | 64 × 64    | 2.43         | 2255.67      | 
 | 128 × 128  | 7.07          | 9345.33      | 
 | 512 × 512  | 94.29    | 156796.3   |
-
+#### For sequential computation
 t<sub>CPU</sub> ∼ (L+1 - S)<sup>2</sup> = O(L<sup>2</sup>)
 
 
