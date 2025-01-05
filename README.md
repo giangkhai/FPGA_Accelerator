@@ -18,7 +18,7 @@
 ## Results
 #### Table 1: Execution Time on FPGA and CPU for 2D Convolution on Gray images
 
-| Image Size - L | FPGA (ms) | CPU (ms)     |
+| Image Size - L | FPGA (PS + PL) (ms) | CPU (PS) (ms)     |
 |------------|-----------------|------------|
 | 32 × 32    |1.3              |537         | 
 | 64 × 64    |2.43             |2255.67     | 
