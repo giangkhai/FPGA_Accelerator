@@ -1,4 +1,4 @@
-## CNN Training 
+## Host PC CNN Training 
 ### 1. Train CNN Model
 - Define and train a CNN model.
 - Save as keras file.
