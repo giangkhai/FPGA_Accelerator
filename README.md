@@ -56,3 +56,6 @@
 [2] "Fashion MNIST Dataset". Available: https://www.kaggle.com/datasets/zalando-research/fashionmnist.
 
 [3] "Kuzushiji MNIST Dataset". Available: https://www.kaggle.com/datasets/anokas/kuzushiji.
+
+## Contributors
+- Project by: Khai Giang-Mien and Nguyen Phan-Nguyen-Khoi
