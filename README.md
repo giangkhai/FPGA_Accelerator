@@ -17,7 +17,7 @@
 
 ## Dataset
 We use the MNIST dataset available at the following link:
-[MNIST Handwritten](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
-[MNIST Fashion](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
-[MNIST Kuzushiji](https://www.kaggle.com/datasets/anokas/kuzushiji)
+[MNIST Handwritten](https://www.kaggle.com/datasets/hojjatk/mnist-dataset).
+[MNIST Fashion](https://www.kaggle.com/datasets/zalando-research/fashionmnist).
+[MNIST Kuzushiji](https://www.kaggle.com/datasets/anokas/kuzushiji).
 
