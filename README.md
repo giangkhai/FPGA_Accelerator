@@ -45,8 +45,8 @@
 - Speed up = t<sub>CPU</sub>/t<sub>FPGA</sub> =109.33 L<sup>0.464</sup> (times).
 [^1]: PS, processing system.
 [^2]: PS + PL, programmable logic.
+
 ## Dataset
-The following datasets were used in this project:
 
 [1] "MNIST Handwritten Digits Dataset". Available: https://www.kaggle.com/datasets/hojjatk/mnist-dataset.
 
