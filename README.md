@@ -49,12 +49,6 @@
 | Kuzushiji              |1898.00     |710.30      | 2.61       |
 
 
-#### Regression model
-- t = A L<sup>n</sup> (ms).
-- Speed up = t<sub>CPU</sub>/t<sub>FPGA</sub> =109.33 L<sup>0.464</sup> (times).
-[^1]: PS, processing system.
-[^2]: PS + PL, programmable logic PYNQ-Z2.
-
 ## Dataset
 
 [1] "MNIST Handwritten Digits Dataset". Available: https://www.kaggle.com/datasets/hojjatk/mnist-dataset.
