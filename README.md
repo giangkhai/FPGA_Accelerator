@@ -28,6 +28,7 @@
 #### Regression model
 - t = A L<sup>n</sup> (ms).
 - Speed up = B L<sup>m</sup> (times).
+- t<sup>CPU<sup>=0.451329L<sup>2.04621<sup> (ms).
 [^1]: PS, processing system.
 [^2]: PS + PL, programmable logic.
 ## Dataset
