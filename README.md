@@ -35,7 +35,10 @@
 | 512 × 512  |94.29            |156796.3    |
 
 #### Regression model
-- Y(m,n,p) = (X*W)(m,n,p) = $\sum_{k=1}^N X(n)W(n)$
+-$$
+Y(m,n,p) = \displaystyle \sum_{k=1}^N X(n)W(n)
+$$
+
 - t = A L<sup>n</sup> (ms).
 - Speed up = t<sub>CPU</sub>/t<sub>FPGA</sub> =109.33 L<sup>0.464</sup> (times).
 [^1]: PS, processing system.
