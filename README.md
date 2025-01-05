@@ -1,6 +1,7 @@
 ## Host PC CNN Training 
 ### 1. CNN Model 
 - Define and train a CNN model.
+  
 | Layer                              | Output  Shape     | Param #     |
 |------------                        |-----------------  |------------ |
 | conv2d_1 (Conv2D)                  |(None, 24, 24, 16) |416          | 
