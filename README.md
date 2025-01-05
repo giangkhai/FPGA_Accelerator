@@ -18,7 +18,7 @@
 ## Results
 #### Table 1: Execution Time on FPGA and CPU for 2D Convolution on Gray images
 
-| Image Size - L | FPGA (PS + PL) (ms) | CPU (PS) (ms)     |
+| Image Size - L | FPGA [^1] (ms) | CPU [^2] (ms)     |
 |------------|-----------------|------------|
 | 32 × 32    |1.3              |537         | 
 | 64 × 64    |2.43             |2255.67     | 
@@ -28,7 +28,8 @@
 #### Regression model
 - t = A L<sup>n</sup> (ms).
 - Speed up = B L<sup>m</sup> (times).
-
+[^1]: PS, processing system.
+[^2]: PS + PL, programmable logic.
 ## Dataset
 The following datasets were used in this project:
 
