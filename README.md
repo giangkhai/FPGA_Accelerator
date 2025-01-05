@@ -26,7 +26,7 @@
 | 512 × 512  |94.29            |156796.3    |
 
 #### Regression model
-t = A <sup>n</sup> (ms)
+t = A L<sup>n</sup> (ms)
 Speed up = B L<sup>m</sup> (times)
 
 ## Dataset
