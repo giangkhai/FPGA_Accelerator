@@ -26,8 +26,8 @@
 | 512 × 512  |94.29            |156796.3    |
 
 #### Regression model
-t = $A$ $L$<sup>$n$</sup> (ms)
-Speed up = $A$ $L$<sup>$m$</sup> (times)
+t = A <sup>n</sup> (ms)
+Speed up = B L<sup>m</sup> (times)
 
 ## Dataset
 The following datasets were used in this project:
