@@ -18,8 +18,8 @@
 ## Dataset
 The following datasets were used in this project:
 
-[1] H. Hojjat, "MNIST Handwritten Digits Dataset," Kaggle, 2017. [Online]. Available: https://www.kaggle.com/datasets/hojjatk/mnist-dataset.
+[1] "MNIST Handwritten Digits Dataset". [Online]. Available: https://www.kaggle.com/datasets/hojjatk/mnist-dataset.
 
-[2] Z. Research, "Fashion MNIST Dataset," Kaggle, 2017. [Online]. Available: https://www.kaggle.com/datasets/zalando-research/fashionmnist.
+[2] "Fashion MNIST Dataset". [Online]. Available: https://www.kaggle.com/datasets/zalando-research/fashionmnist.
 
-[3] A. Anokas, "Kuzushiji MNIST Dataset," Kaggle, 2019. [Online]. Available: https://www.kaggle.com/datasets/anokas/kuzushiji.
+[3] "Kuzushiji MNIST Dataset". [Online]. Available: https://www.kaggle.com/datasets/anokas/kuzushiji.
