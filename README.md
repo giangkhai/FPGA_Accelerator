@@ -42,9 +42,9 @@
 [^1]: PS, processing system.
 [^2]: PS + PL, programmable logic.
 
-#### Table 2: Execution Time on CPU, 4T GPU, FPGA (Full CNN) on MNIST Datasets
+#### Table 2: Execution Time on CPU, T4 GPU, FPGA (Full CNN) on MNIST Datasets
 
-| Dataset                | CPU (ms) | GPU (ms)     | FPGA (ms)  |
+| Dataset                | CPU (ms) | T4 GPU (ms)     | FPGA (ms)  |
 |------------            |------------|------------|------------|
 | Handwritten digits     |1,931.23     |727.25      | 3.84       |
 | Fashion                |1,940.01     |653.84      | 2.59       |
