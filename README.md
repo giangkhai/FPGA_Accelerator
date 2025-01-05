@@ -2,7 +2,7 @@
 ### 1. CNN Model 
 - Define and train a CNN model.
   
-| Layer  (type)                      | Output  Shape     | Param #     |
+| Layer (type)                       | Output  Shape     | Param #     |
 |------------                        |-----------------  |------------ |
 | conv2d_1 (Conv2D)                  |(None, 24, 24, 16) |416          | 
 | max_pooling2d_1 (MaxPooling2D)     |(None, 6, 6, 16)   |0            | 
