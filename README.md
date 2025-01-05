@@ -38,7 +38,7 @@
 - t = A L<sup>n</sup> (ms).
 - Speed up = t<sub>CPU</sub>/t<sub>FPGA</sub> =109.33 L<sup>0.464</sup> (times).
 [^1]: PS, processing system.
-[^2]: PS + PL, programmable logic.
+[^2]: PS + PL, programmable logic PYNQ-Z2.
 
 #### Table 2: Execution Time on CPU, T4 GPU, FPGA (Full CNN) on MNIST Datasets (10,000 samples)
 
