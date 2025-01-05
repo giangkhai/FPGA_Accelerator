@@ -12,8 +12,8 @@
 - Convert the trained CNN model to TensorFlow Lite (tflite) format.
 
 ## Files
-- `mnist_data.pkl` – Pickle convertor.
-- `model.tflite` – Keras to tflite convertor.
+- `pickle_conv.py` – Pickle convertor.
+- `tflite_conv.py` – Keras to tflite convertor.
 
 ## Dataset
 The following datasets were used in this project:
