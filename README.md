@@ -30,6 +30,21 @@
 - Speed up = t<sub>CPU</sub>/t<sub>FPGA</sub> =109.33 L<sup>0.464</sup> (times).
 [^1]: PS, processing system.
 [^2]: PS + PL, programmable logic.
+
+#### Table 2: Execution Time on CPU, 4T GPU, FPGA on MNIST Datasets
+
+| Dataset                | CPU (ms) | GPU (ms)     | FPGA (ms)  |
+|------------            |------------|------------|------------|
+| Handwritten digits     |1931.23     |727.25      | 3.84       |
+| Fashion                |1940.01     |653.84      | 2.59       |
+| Kuzushiji              |1898.0      |710.30      | 2.61       |
+
+
+#### Regression model
+- t = A L<sup>n</sup> (ms).
+- Speed up = t<sub>CPU</sub>/t<sub>FPGA</sub> =109.33 L<sup>0.464</sup> (times).
+[^1]: PS, processing system.
+[^2]: PS + PL, programmable logic.
 ## Dataset
 The following datasets were used in this project:
 
