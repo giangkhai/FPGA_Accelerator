@@ -16,14 +16,14 @@
 - `tflite_conv.py` – Keras to tflite convertor.
 
 
-#### Table 1: Execution Time on FPGA and CPU for 2D Convolution with Various Kernels  
+#### Table 1: Execution Time on FPGA and CPU for 2D Convolution on Gray images
 
-| Image Size | Sobel (PS + PL) | Sobel (PS) | Laplacian (PS + PL) | Laplacian (PS) | Prewitt (PS + PL) | Prewitt (PS) |
-|------------|-----------------|------------|---------------------|----------------|-------------------|--------------|
-| 32 × 32    | 1.249           | 541        | 1.324               | 525            | 1.324             | 545          |
-| 64 × 64    | 2.291           | 2312       | 2.668               | 2266           | 2.319             | 2189         |
-| 128 × 128  | 6.686           | 9206       | 7.507               | 9449           | 7.020             | 9381         |
-| 512 × 512  | 93.908          | 156785     | 93.687              | 158426         | 95.277            | 155178       |
+| Image Size | FPGA (ms) | CPU (ms)   |
+|------------|-----------------|------------|
+| 32 × 32    | 1.3          | 537      | 
+| 64 × 64    | 2.43         | 2255.67      | 
+| 128 × 128  | 7.07          | 9345.33      | 
+| 512 × 512  | 94.29    | 156796.3   |
 
 
 
