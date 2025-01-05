@@ -28,7 +28,8 @@
 $\tau$<sub>CPU</sub> ∼ (L+1 - S)<sup>2</sup> = O(L<sup>2</sup>)
 #### For FPGA computation
 $\tau$<sub>FPGA</sub> ∼ O(L<sup>$\beta$</sup>)
-
+#### Regression model
+$\tau$ = $\alpha$ $x$<sup>$\beta$</sup>
 ## Dataset
 The following datasets were used in this project:
 
