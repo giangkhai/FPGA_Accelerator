@@ -24,6 +24,7 @@
 ## Files
 - `pickle_conv.py` – Pickle convertor.
 - `tflite_conv.py` – Keras to tflite convertor.
+- `npy_conv.py` – tflite to npy convertor.
 
 ## Deployment on FPGA 
 ### 1. CNN Overlays
