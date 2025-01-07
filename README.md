@@ -19,10 +19,19 @@
 
 ### 3. Convert to TensorFlow Lite
 - Convert the trained CNN model to TensorFlow Lite (tflite) format.
+- Convert tflite file to weight with npy format if FPGA doesn't have TensorFlow Lite (optinal).
 
 ## Files
 - `pickle_conv.py` – Pickle convertor.
 - `tflite_conv.py` – Keras to tflite convertor.
+
+## Deployment on FPGA 
+### 1. CNN Overlays
+- Source files and project configurations for creating CNN overlays on the FPGA are available in the Vitis folder.
+
+### 2. Running CNN on FPGA
+- Jupyter Notebook scripts for running the trained CNN model on the FPGA are available in the Jupyter folder.
+- The overlays in the folder were created using the 2021.2 HLS tool and are running on PYNQ version 2.7.
 
 ## Results
 #### Table 1: Execution Time on FPGA and CPU for 2D Convolution on Gray images
